@@ -1,0 +1,17 @@
+C:\Users\J\Desktop\SuGang\SuGang\bin\Release\net6.0-windows\SuGang.exe
+C:\Users\J\Desktop\SuGang\SuGang\bin\Release\net6.0-windows\SuGang.deps.json
+C:\Users\J\Desktop\SuGang\SuGang\bin\Release\net6.0-windows\SuGang.runtimeconfig.json
+C:\Users\J\Desktop\SuGang\SuGang\bin\Release\net6.0-windows\SuGang.dll
+C:\Users\J\Desktop\SuGang\SuGang\bin\Release\net6.0-windows\SuGang.pdb
+C:\Users\J\Desktop\SuGang\SuGang\obj\Release\net6.0-windows\SuGang.csproj.AssemblyReference.cache
+C:\Users\J\Desktop\SuGang\SuGang\obj\Release\net6.0-windows\SuGang.Form1.resources
+C:\Users\J\Desktop\SuGang\SuGang\obj\Release\net6.0-windows\SuGang.csproj.GenerateResource.cache
+C:\Users\J\Desktop\SuGang\SuGang\obj\Release\net6.0-windows\SuGang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\J\Desktop\SuGang\SuGang\obj\Release\net6.0-windows\SuGang.AssemblyInfoInputs.cache
+C:\Users\J\Desktop\SuGang\SuGang\obj\Release\net6.0-windows\SuGang.AssemblyInfo.cs
+C:\Users\J\Desktop\SuGang\SuGang\obj\Release\net6.0-windows\SuGang.csproj.CoreCompileInputs.cache
+C:\Users\J\Desktop\SuGang\SuGang\obj\Release\net6.0-windows\SuGang.dll
+C:\Users\J\Desktop\SuGang\SuGang\obj\Release\net6.0-windows\refint\SuGang.dll
+C:\Users\J\Desktop\SuGang\SuGang\obj\Release\net6.0-windows\SuGang.pdb
+C:\Users\J\Desktop\SuGang\SuGang\obj\Release\net6.0-windows\SuGang.genruntimeconfig.cache
+C:\Users\J\Desktop\SuGang\SuGang\obj\Release\net6.0-windows\ref\SuGang.dll
